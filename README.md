@@ -1,0 +1,2 @@
+# OscarInterface
+InterfaceVersion1
